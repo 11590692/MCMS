@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.mingsoft:ms-mpeople:classes:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://E:/maven/maven-mcms/repository/net/mingsoft/ms-mpeople/1.0.0-SNAPSHOT/ms-mpeople-1.0.0-20170328.040425-25-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/maven/maven-mcms/repository/net/mingsoft/ms-mpeople/1.0.0-SNAPSHOT/ms-mpeople-1.0.0-20170328.040425-25-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/maven/maven-mcms/repository/net/mingsoft/ms-mpeople/1.0.0-SNAPSHOT/ms-mpeople-1.0.0-20170328.040425-25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
